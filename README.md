@@ -30,3 +30,5 @@ pip install -r package-list.txt
 ## External Links
 
 Here is the [medium blog post](https://medium.com/@ooisiangtan/potential-seattle-airbnb-superhosts-these-are-the-best-months-to-make-your-property-available-4926b0cbea4f) that presents the results of this project.
+
+Here is the [link](https://www.kaggle.com/airbnb/seattle/data) to the dataset in Kaggle.
